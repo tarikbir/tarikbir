@@ -1,6 +1,6 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" align="left" height="75">
-<img src="https://e7.pngegg.com/pngimages/806/950/png-clipart-unity-video-games-game-engine-logo-3d-computer-graphics-web-portal-game-angle.png" align="left" height="75">
-<img src="https://lh3.googleusercontent.com/proxy/x1a-kPLTDhCo9ygh7BNaK2XkDyt4x83OeH48sJ6BGY6oE69mAReMs6E6aY5SVhcDPwfKQO9i9dD99lV1C2VHy67LrScATsuNNIZpwlav2wqedg" align="left" height="75">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" height="18"> C# developer
+- <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" height="18"> Unity developer
+- <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png?raw=true" height="18"> .NET developer
 
 <!--
 **tarikbir/tarikbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
