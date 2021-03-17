@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" align="left" height="75">
-<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png" align="left" height="75">
-<img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" align="left" height="75">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" align="left" height="75">
+<img src="https://lh3.googleusercontent.com/proxy/x1a-kPLTDhCo9ygh7BNaK2XkDyt4x83OeH48sJ6BGY6oE69mAReMs6E6aY5SVhcDPwfKQO9i9dD99lV1C2VHy67LrScATsuNNIZpwlav2wqedg" align="left" height="75">
 
 <!--
 **tarikbir/tarikbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
