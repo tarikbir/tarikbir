@@ -1,5 +1,5 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" height="18"> C# developer
-- <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" height="18"> Unity developer
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/174px-Unity_2021.svg.png" height="18"> Unity developer
 - <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png?raw=true" height="18"> .NET developer
 
 <!--
