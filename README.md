@@ -3,7 +3,6 @@
 - <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png?raw=true" height="18"> .NET developer
 
 🔭 I’m currently working on a private game (hence the empty commits)
-📫 How to reach me: https://tarikbir.com
 
 <!--
 **tarikbir/tarikbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
