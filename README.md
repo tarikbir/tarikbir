@@ -1,8 +1,9 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" height="18"> C# developer
-- <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/256/FontAwesome-Brands-Unity-icon.png" height="18"> Unity developer
+- <img src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" height="18"> Unity developer
+- <img src="https://godotengine.org/assets/press/icon_color.png" height="18"> Godot developer (C#)
 - <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png?raw=true" height="18"> .NET developer
 
-🔭 I’m currently working on a private game.
+🔭 I’m still working on hobby games. You can check some out at https://tharky.itch.io/
 
 <!--
 **tarikbir/tarikbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
